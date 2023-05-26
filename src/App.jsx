@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>CountDown Timer</h1>
+      <h1>Count Timer</h1>
       <p className='timer'>{time}</p>
       <div className='buttons'>
         {
